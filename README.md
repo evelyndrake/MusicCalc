@@ -10,4 +10,4 @@ npm run dev
 - Note -> note pitch in Hz
 - Music theory tools
 - Generative tools?
-- Probably use (tonaljs)[https://github.com/tonaljs/tonal]
+- Probably use [tonaljs](https://github.com/tonaljs/tonal)
