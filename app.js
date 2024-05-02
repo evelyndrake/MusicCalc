@@ -8,7 +8,7 @@ app.use('/assets',express.static(__dirname + '/assets'));
 
 //for /index page
 app.get('/', function(request,response){
-	response.sendFile('index.html',{root:path.join(__dirname,'./views')});
+	response.sendFile('home.html',{root:path.join(__dirname,'./views')});
 });
 
 //for /home page
